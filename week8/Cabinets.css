@@ -1,0 +1,16 @@
+h1 {
+    text-align: center
+}
+P { margin: 0.25in;
+    border: 0.25in solid black;
+    padding: 0.25in;
+    background: URL('3478621.jpg')
+    }
+body {
+    background: URL('800px-Bricks-4172.jpg')
+}
+.banner {
+    background: url('board.jpg') repeat-x;
+    font-size: 50pt;
+    font-family: Arial Rounded MT Bold
+}
